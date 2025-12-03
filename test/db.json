@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Roeurm Dara",
+      "email": "dara@example.com"
+    },
+    {
+      "id": "a18c",
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": "3",
+      "name": "John Doe",
+      "email": "john@example.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello World"
+    }
+  ]
+}
